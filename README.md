@@ -1,8 +1,7 @@
 # 🏡 Real Estate Platform
 
 ## 🚀 Live Demo
-https://ahmed-yasser12.github.io/Sakan
-
+(https://ahmed-yasser12.github.io/ReactJs-Sakan/)
 ## 📌 Overview
 A modern real estate web application that allows users to browse properties, search by location, and manage bookings. The platform provides an intuitive and responsive interface for exploring real estate listings and handling property-related operations.
 
