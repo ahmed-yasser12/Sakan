@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Sakan/static/css/main.ad9b81ce.css",
-    "main.js": "/Sakan/static/js/main.670a3e83.js",
+    "main.css": "/Sakan/static/css/main.545e95a0.css",
+    "main.js": "/Sakan/static/js/main.fbc4a65c.js",
     "static/js/453.2bdd6fe7.chunk.js": "/Sakan/static/js/453.2bdd6fe7.chunk.js",
     "static/media/about2.jfif": "/Sakan/static/media/about2.8c11ed23f381077aafb7.jfif",
     "static/media/about1.jfif": "/Sakan/static/media/about1.0953579ac1047964e79d.jfif",
@@ -25,12 +25,12 @@
     "static/media/fa-v4compatibility.ttf": "/Sakan/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
     "static/media/fa-v4compatibility.woff2": "/Sakan/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/Sakan/index.html",
-    "main.ad9b81ce.css.map": "/Sakan/static/css/main.ad9b81ce.css.map",
-    "main.670a3e83.js.map": "/Sakan/static/js/main.670a3e83.js.map",
+    "main.545e95a0.css.map": "/Sakan/static/css/main.545e95a0.css.map",
+    "main.fbc4a65c.js.map": "/Sakan/static/js/main.fbc4a65c.js.map",
     "453.2bdd6fe7.chunk.js.map": "/Sakan/static/js/453.2bdd6fe7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad9b81ce.css",
-    "static/js/main.670a3e83.js"
+    "static/css/main.545e95a0.css",
+    "static/js/main.fbc4a65c.js"
   ]
 }
